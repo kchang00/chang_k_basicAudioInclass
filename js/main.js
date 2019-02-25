@@ -5,7 +5,7 @@
 	let aud = document.querySelector('audio'),
 		play = document.querySelector('#playBtn'),
 		pause = document.querySelector('#pauseBtn'),
-		rewind = document.querySelector('#rewindBtn'),
+		rewind = document.querySelector('#rewindBtn');
 
 	// write the functions for the audio element
 	function playAudio() {
